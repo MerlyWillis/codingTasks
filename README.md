@@ -17,7 +17,7 @@ functions and dictionaries. These are all key-skills in python programming and s
 
 3.
 To run the program follow these steps.
-A) Download the python script to your local machine.
+A) Download the python script to your local machine. 
 B) Run the script using an IDE that supports Python, such as VS Code.
 C) When prompted with options in the output terminal enter income / expenses details.
 D) Once above details are saved to program dictionary, use options 3-7 to work-on data and see useful representations of your data.
@@ -26,6 +26,7 @@ D) Once above details are saved to program dictionary, use options 3-7 to work-o
 4.
 Credits to Merlin Coward-Willis for the sole creation of the 'financial_tracker' application.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Task Manager Application - README
 
